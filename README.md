@@ -21,8 +21,7 @@ This is a 2D top-down racing game built using Python and Pygame. The game allows
 ### Installation Steps
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/racing-game.git
-   cd racing-game
+   https://github.com/keyurbhatiya/car_race-using-python.git
    ```
 
 2. **Install Pygame:**
